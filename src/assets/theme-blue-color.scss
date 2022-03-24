@@ -1,0 +1,40 @@
+
+// @import '~@angular/material/theming';
+// @import './theme-base';
+
+// $cosmos-primary: (
+//     100: #D9E6FF,
+//     200: #B9D7FF,
+//     300: #59A1FF,
+//     400: #267CED,
+//     500: #0F69DE,
+//     600: #074DA9 ,
+//     700: #003B87,
+//     800: #002C65,
+//     900: #001D43,
+//     contrast: (
+//         50: $black-87-opacity,
+//         100: $black-87-opacity,
+//         200: $black-87-opacity,
+//         300: $black-87-opacity,
+//         400: $black-87-opacity,
+//         500: white,
+//         600: white,
+//         700: white,
+//         800: white,
+//         900: white,
+//         A100: $black-87-opacity,
+//         A200: $black-87-opacity,
+//         A400: $black-87-opacity,
+//         A700: white,
+//     )
+// );
+
+// $primary: mat-palette($cosmos-primary);
+// $accent:  mat-palette($mat-amber, A200, A100, A400);
+// $warn:    mat-palette($mat-orange, 600);
+// $theme:   mat-light-theme($primary, $accent, $warn);
+
+// [ng-version^="12"] {
+//   @include theming($theme);
+// }
